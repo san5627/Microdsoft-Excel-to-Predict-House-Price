@@ -31,7 +31,7 @@ Fig: Plotting the Regressed Values against the Actual Values to understand the d
 
 - Using the above linear regression model, predict the prices of the houses sold in the year 2017. Interpret your findings from the model.
 
-![Figure 6](Images/Chart2.PNG)
+Chart2.PNG
 
 Fig: Plotting the Residuals (Actual Value – Predicted Value) to understand the difference.
 
