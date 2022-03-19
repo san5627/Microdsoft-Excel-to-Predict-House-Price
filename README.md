@@ -10,24 +10,30 @@ You are expected to use the data of the year 2016 to create a regression model w
 - Create a few hypothesis around the important variables and validate them using the data
 - Mention all the variable which are highly correlated.
 
+![image](https://user-images.githubusercontent.com/60821624/159129450-fe26f55e-c38c-466f-bd20-eb9e3dcf8e83.png)
 
 Fig: Top 10 Variables which are highly correlated with the Price Variable (Target) 
 
 
 - Build a linear regression model on the data of year 2016. Predict the price for year 2016 using this regression model, plot the regressed values against the actual values to understand the difference.
  
+![image](https://user-images.githubusercontent.com/60821624/159129502-88a5df85-bd49-4f28-b127-af8445ef4a1c.png)
 
 Fig: Plotting the Regressed Values against the Actual Values to understand the difference.
 
 **Summary**
 
+![image](https://user-images.githubusercontent.com/60821624/159129559-5f5f3898-d20a-4ffe-9377-52609286cdea.png)
 
+![image](https://user-images.githubusercontent.com/60821624/159129566-1475abe2-2ffb-44f5-928e-e2f30e8982e7.png)
 
 
 - Using the above linear regression model, predict the prices of the houses sold in the year 2017. Interpret your findings from the model.
+![image](https://user-images.githubusercontent.com/60821624/159129518-2278dcfe-f8ce-43a0-8139-da717872569d.png)
 
 
 Fig: Plotting the Residuals (Actual Value – Predicted Value) to understand the difference.
+![image](https://user-images.githubusercontent.com/60821624/159129583-525914b4-fb34-40a9-8d29-47e24f6e84c8.png)
 
 **Important Findings**
 1. There are 26 cases in which the price predicted is coming out to be negative.
